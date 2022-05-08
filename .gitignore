@@ -1,0 +1,12 @@
+### Python artifacts
+*.pyc
+
+### Editor and IDE artifacts
+.idea/
+
+### OS X artifacts
+*.DS_Store
+
+### Database
+
+*.sqlite3
